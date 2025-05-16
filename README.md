@@ -3,7 +3,7 @@
 
 <h2>🚀 Goals</h2>
 <ul>
-    <li>Gain as much experience in software development.</li>
+    <li>Land a software engineering internship.</li>
     <li>Learn python to get into machine learning and AI.</li>
     <li>Eventually pursue a career in software engineering or a related field like AI/ML.</li>
 </ul>
